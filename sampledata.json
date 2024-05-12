@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "title": "Beautiful Landscape",
+      "url": "http://example.com/landscape",
+      "thumbnailUrl": "http://example.com/thumbnails/landscape.jpg",
+      "type": "image",
+      "description": "A stunning view of the mountains during sunset."
+    },
+    {
+      "title": "Learn Web Development",
+      "url": "http://example.com/webdev",
+      "thumbnailUrl": "http://example.com/thumbnails/webdev.jpg",
+      "type": "video",
+      "description": "Comprehensive video tutorial on web development from beginner to advanced levels."
+    },
+    {
+      "title": "The Future of Technology",
+      "url": "http://example.com/technology",
+      "thumbnailUrl": "http://example.com/thumbnails/technology.jpg",
+      "type": "text",
+      "description": "An in-depth article exploring the rapid advancements in technology and their implications on society."
+    },
+    {
+      "title": "Relaxing Music for Studying",
+      "url": "https://www.youtube.com/watch?v=example",
+      "thumbnailUrl": "http://example.com/thumbnails/music.jpg",
+      "type": "youtube",
+      "description": "Enjoy a selection of calming music perfect for studying, relaxation, or background ambiance."
+    }
+  ]
+}
