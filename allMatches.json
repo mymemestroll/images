@@ -96,11 +96,11 @@
           "name": "LSG"
         }
       ],
-      "headTeam": [""],
-      "megaTeam": [""],
-      "premiumTeam": ["", "", ""],
-      "smallTeam": [""],
-      "matchOpinion": ["", "", ""],
+      "headTeam": [],
+      "megaTeam": [],
+      "premiumTeam": [],
+      "smallTeam": [],
+      "matchOpinion": [],
       "preview": "na",
       "teamPreviewHTML": "",
       "teamScreenShorts": ""
@@ -128,11 +128,11 @@
           "name": "CSK"
         }
       ],
-      "headTeam": [""],
-      "megaTeam": [""],
-      "premiumTeam": ["", "", ""],
-      "smallTeam": [""],
-      "matchOpinion": ["", "", ""],
+      "headTeam": [],
+      "megaTeam": [],
+      "premiumTeam": [],
+      "smallTeam": [],
+      "matchOpinion": [],
       "preview": "na",
       "teamPreviewHTML": "",
       "teamScreenShorts": ""
