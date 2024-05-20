@@ -1,18 +1,18 @@
 [
     {
-        "imageUrl": "https://example.com/images/news1.jpg",
+        "imageUrl": "https://t3.ftcdn.net/jpg/01/75/17/46/360_F_175174631_fZWpQKTkvuuXxZN6rz7x7mzjwCrhJq0o.jpg",
         "newsDescription": "This is the description for news item 1.",
         "title": "News Title 1",
         "date": "2024-05-16"
     },
     {
-        "imageUrl": "https://example.com/images/news2.jpg",
+        "imageUrl": "https://t3.ftcdn.net/jpg/01/75/17/46/360_F_175174631_fZWpQKTkvuuXxZN6rz7x7mzjwCrhJq0o.jpg",
         "newsDescription": "This is the description for news item 2.",
         "title": "News Title 2",
         "date": "2024-05-15"
     },
     {
-        "imageUrl": "https://example.com/images/news3.jpg",
+        "imageUrl": "https://t3.ftcdn.net/jpg/01/75/17/46/360_F_175174631_fZWpQKTkvuuXxZN6rz7x7mzjwCrhJq0o.jpg",
         "newsDescription": "This is the description for news item 3.",
         "title": "News Title 3",
         "date": "2024-05-14"
