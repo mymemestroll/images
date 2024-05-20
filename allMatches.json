@@ -70,7 +70,9 @@
         }
       ],
       "preview": "na",
-      "teamPreviewHTML": "",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
       "teamScreenShorts": ""
     },
     {
