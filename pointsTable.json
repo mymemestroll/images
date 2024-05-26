@@ -1,0 +1,46 @@
+{
+  "matches": [
+    {
+      "type": "T20 World Cup",
+      "pointsTableSectionHeading": "T20 World Cup Points Table",
+      "pointsTable": [
+        {
+          "title": "Group Stage",
+          "htmlData": "<html>...</html>"
+        },
+        {
+          "title": "Knockout Stage",
+          "htmlData": "<html>...</html>"
+        }
+      ]
+    },
+    {
+      "type": "IPL",
+      "pointsTableSectionHeading": "IPL Points Table",
+      "pointsTable": [
+        {
+          "title": "Group Stage",
+          "htmlData": "<html>...</html>"
+        },
+        {
+          "title": "Playoffs",
+          "htmlData": "<html>...</html>"
+        }
+      ]
+    },
+    {
+      "type": "ODI World Cup",
+      "pointsTableSectionHeading": "ODI World Cup Points Table",
+      "pointsTable": [
+        {
+          "title": "Group Stage",
+          "htmlData": "<html>...</html>"
+        },
+        {
+          "title": "Final",
+          "htmlData": "<html>...</html>"
+        }
+      ]
+    }
+  ]
+}
